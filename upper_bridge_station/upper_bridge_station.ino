@@ -37,12 +37,12 @@
 
 // You should get Auth Token in the Blynk App.
 // Go to the Project Settings (nut icon).
-char auth[] = "hzOg4VRNr_HadQVtBYqvQ4iKf7QRw_88";
+char auth[] = "token";
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "Roman Wi-Fi";
-char pass[] = "rlac-yf4g-ib06";
+char ssid[] = "name";
+char pass[] = "pass";
 
 // Bridge widget on virtual pin 1
 WidgetBridge bridge1(V1);

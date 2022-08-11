@@ -35,12 +35,12 @@ github firs/*
 #define PIN D1
 #define NUMPIXELS 320
 Adafruit_NeoPixel pixels = Adafruit_NeoPixel(NUMPIXELS, PIN, NEO_GRB + NEO_KHZ800);
-char auth[] = "FC01rJXQzlIvwn2KqyTG1BkyF0rJuuQ9";
+char auth[] = "token";
 uint32_t white = pixels.Color(255, 178, 102); // zmienna "white" przechowujaca kolor swiecenia kazdej z diod (r, g, b) w zakresie 0-255
 uint32_t black = pixels.Color(0, 0, 0);
 
-char ssid[] = "Roman Wi-Fi";
-char pass[] = "rlac-yf4g-ib06";
+char ssid[] = "name";
+char pass[] = "pass";
 int bridge = 0;
 int warunek = 0;
 
