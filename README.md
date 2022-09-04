@@ -7,5 +7,5 @@ Connection between upper and lower ESP is provided by Blynk platform which deliv
 
 There is examle of daily working:
 <p align="center">
-<img src=https://user-images.githubusercontent.com/91514892/188322300-5b4ed05d-00a8-409a-ad5d-fe58fa05102a.gif>
+<img src=https://user-images.githubusercontent.com/91514892/188323618-022f3a4f-2f86-413c-8c18-3fb71a211bda.gif>
 </p>
